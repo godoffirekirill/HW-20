@@ -88,3 +88,6 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+HW20/Assets.xcassets/.DS_Store
+HW20/.DS_Store
+.DS_Store
